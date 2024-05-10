@@ -44,7 +44,7 @@ img{
     padding: 15px;
     font-size: 20px;
     text-align: center;
-    font-family:fantasy;
+    font-family:sans-serif;
 }
 #add-btn:hover{
     background-color: #c0bd24;
